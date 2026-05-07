@@ -49,6 +49,7 @@ q
 err
 ​
   — ошибка (нарушение рецепта, «поглощающее» состояние — из него нет переходов).
+  
 таблица:
 <img width="363" height="237" alt="image" src="https://github.com/user-attachments/assets/e0822fea-d7e2-4953-9e43-7476394e190b" />
 
