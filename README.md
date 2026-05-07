@@ -49,6 +49,11 @@ q
 err
 ​
   — ошибка (нарушение рецепта, «поглощающее» состояние — из него нет переходов).
+таблица:
+<img width="363" height="237" alt="image" src="https://github.com/user-attachments/assets/e0822fea-d7e2-4953-9e43-7476394e190b" />
+
+Графическая схема (диаграмма состояний):
+<img width="732" height="378" alt="image" src="https://github.com/user-attachments/assets/f5ba69e8-e645-4543-8187-265475cc42df" />
 
 Входной алфавит Σ={B,H,M,S,T}:
 
